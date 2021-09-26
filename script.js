@@ -38,4 +38,4 @@ document.querySelector(".search-bar").addEventListener("keyup", function(){
     }
 })
 
-weather.fetchWeather("paris");
+weather.fetchWeather("vancouver");
